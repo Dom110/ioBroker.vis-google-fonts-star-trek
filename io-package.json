@@ -13,14 +13,14 @@
         "icon": "vis-google-fonts.png",
         "enabled": true,
         "mode": "once",
-        "extIcon": "https://github.com/Dom110/ioBroker.vis-google-fonts/master/admin/vis-google-fonts.png",
+        "extIcon": "https://github.com/Dom110/ioBroker.vis-google-fonts-star-trek/main/admin/vis-google-fonts.png",
         "keywords": [
             "iobroker.vis",
             "GUI",
             "fonts",
             "scada"
         ],
-        "readme": "https://github.com/Dom110/ioBroker.vis-google-fonts/blob/master/README.md",
+        "readme": "https://github.com/Dom110/ioBroker.vis-google-fonts-star-trek/blob/master/README.md",
         "authors": [
             "bluefox <bluefox@ccu.io>"
         ],
