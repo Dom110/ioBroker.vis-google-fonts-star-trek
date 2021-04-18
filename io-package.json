@@ -13,7 +13,7 @@
         "icon": "vis-google-fonts.png",
         "enabled": true,
         "mode": "once",
-        "extIcon": "https://github.com/Dom110/ioBroker.vis-google-fonts-star-trek/tree/main/admin/vis-google-fonts.png",
+        "extIcon": "https://github.com/Dom110/ioBroker.vis-google-fonts-star-trek/blob/main/admin/vis-google-fonts.png",
         "keywords": [
             "iobroker.vis",
             "GUI",
