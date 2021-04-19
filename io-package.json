@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "vis-google-fonts-star-trek",
-        "version": "1.0.0",
+        "version": "0.0.1",
         "title": "Nice google and star trek fonts for ioBroker.vis",
         "desc": {
             "en": "Nice google fonts + star trek for ioBroker.vis",
@@ -22,7 +22,8 @@
         ],
         "readme": "https://github.com/Dom110/ioBroker.vis-google-fonts-star-trek/blob/main/README.md",
         "authors": [
-            "bluefox <bluefox@ccu.io>"
+            "bluefox <bluefox@ccu.io>",
+            "dom110 <dom1@mailbox.org>"
         ],
         "localLink": "%web_protocol%://%ip%:%web_port%/vis/widgets/google-fonts-star-trek/index.html",
         "license": "OFL-1.1",
